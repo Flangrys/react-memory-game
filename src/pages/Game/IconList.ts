@@ -1,0 +1,18 @@
+export default [
+  'apple-alt',
+  'anchor',
+  'moon',
+  'pallete',
+  'bell',
+  'bible',
+  'bomb',
+  'bone',
+  'car',
+  'cat',
+  'chess',
+  'skull',
+  'feather-alt',
+  'fire',
+  'heart',
+  'music',
+]
